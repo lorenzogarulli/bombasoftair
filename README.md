@@ -1,5 +1,6 @@
 # bombasoftair
 Codice + schema elettrico bomba softair, seguire quanto riportato dal video Youtube
+
 scaricare i file 
 
 1 step 
